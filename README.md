@@ -17,12 +17,9 @@ Aspiring analyst, writer, and developer interested in:
 | NBA Stats| Basketball analytics.
 | KEMETEK  | Constructed Egyptian language.
 | MINDFULL | Coming-of-age fiction story blending quiet humor.
-|
-| Healthca- Built pivot chart and data visualizations to analyze healthcare trends,
-| re_Pivot- compare performance metrics, and organize large datasets.
-| Chart    |
-| S&P500 T- Analyzed historical S&P 500 market trends using charts, statistical patterns,
-| rend     | and data visualization techniques.
+| Healthcare_PivotChart | Built pivot chart and data visualizations to analyze healthcare trends, compare performance metrics, and organize large datasets.
+| S&P500 Trend |- Analyzed historical S&P 500 market trends using charts, statistical patterns, and data visualization techniques.
+
 - 🔭 I’m currently working on learning python and data analysis
 - 🌱 I’m currently learning how speak spanish and turkish
 -
