@@ -15,8 +15,6 @@ Aspiring analyst, writer, and developer interested in:
 | Project | Description |
 |---------|-------------|
 | NBA Stats| Basketball analytics.
-| KEMETEK  | Constructed Egyptian language.
-| MINDFULL | Coming-of-age fiction story blending quiet humor.
 | Healthcare_PivotChart | Built pivot chart and data visualizations to analyze healthcare trends, compare performance metrics, and organize large datasets.
 | S&P500 Trend |- Analyzed historical S&P 500 market trends using charts, statistical patterns, and data visualization techniques.
 | SQL WORKBENCH Medical Staff data analysis screenshot | Analysis on Healthcare staff from a madeup facility.
@@ -31,10 +29,6 @@ Aspiring analyst, writer, and developer interested in:
 https://colab.research.google.com/drive/1caA3kOcgaOW2hvx5_DgpD_-hw771CDIk?usp=sharing
 
 https://colab.research.google.com/drive/1BaH1yiuJD5ax5hw5lh0Tr1PkN4IGta2d?usp=sharing
-
-[MINDFULL.docx](https://github.com/user-attachments/files/28230243/MINDFULL.docx)[Tāmēsh _ Kemetek Alphabet, Sounds, and Core 
-
-Lexicon.docx](https://github.com/user-attachments/files/28230491/Tamesh._.Kemetek.Alphabet.Sounds.and.Core.Lexicon.docx)
 
 [S&P 500 Trend Analysis (1990-2025).xlsx](https://github.com/user-attachments/files/28230553/S.P.500.Trend.Analysis.1990-2025.xlsx)
 
