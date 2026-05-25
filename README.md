@@ -4,23 +4,48 @@
 **hasanbas388-glitch/hasanbas388-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## About me
-Aspiring analyst, writer, and developer interested in:
--data science
--mathematics
+Aspiring Data Analyst focused on retail analytics, financial trends, and operational insights using Python, SQL, and Excel. Interested in turning raw data into business decisions; as well as:
 -storytelling
 -language systems
 
 ## Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| NBA Stats| Basketball analytics.
-| Healthcare_PivotChart | Built pivot chart and data visualizations to analyze healthcare trends, compare performance metrics, and organize large datasets.
-| S&P500 Trend |- Analyzed historical S&P 500 market trends using charts, statistical patterns, and data visualization techniques.
-| SQL WORKBENCH Medical Staff data analysis screenshot | Analysis on Healthcare staff from a madeup facility.
+S&P 500 Market Trend & Volatility Study
+Analyzed historical S&P 500 data (1990–2025) using Python/Excel to identify long-term trends and volatility patterns.
+Key insights:
 
-- 🔭 I’m currently working on learning python and data analysis
-- 🌱 I’m currently learning how speak spanish and turkish
+Confirmed long-term upward market trend
+Detected high-volatility periods during economic downturns
+Observed cyclical behavior in market corrections
+
+Basketball Performance Analytics Dashboard
+Analyzed basketball player/team statistics to identify performance trends and comparisons using data visualization techniques.
+Key insights:
+
+Compared player efficiency across seasons
+Identified performance consistency trends
+Visualized scoring and win patterns
+
+Healthcare Workforce Efficiency Analysis (Pivot Tables & Excel)
+Built pivot tables and dashboards to analyze healthcare workforce data and operational trends.
+Key insights:
+
+Identified staffing distribution across departments
+Compared workload and efficiency metrics
+Summarized large datasets into actionable dashboards
+
+
+
+- 🔭 I’m currently working on
+Improving Python for data analysis
+Learning SQL more deeply
+Building retail-focused analytics projects
+Developing stronger data storytelling skills
+
+- 🌱 Currently Learning
+Python for Data Science
+SQL for Analytics
+Turkish & Spanish language basics
 -
 -
 ## Veiw Projects
@@ -33,6 +58,6 @@ https://colab.research.google.com/drive/1BaH1yiuJD5ax5hw5lh0Tr1PkN4IGta2d?usp=sh
 [S&P 500 Trend Analysis (1990-2025).xlsx](https://github.com/user-attachments/files/28230553/S.P.500.Trend.Analysis.1990-2025.xlsx)
 
 
-- 📫 How to reach me: # 631-704-5668/ hasanbas388@gmail.com
+- 📫 How to reach me: hasanbas388@gmail.com
   
 -->
