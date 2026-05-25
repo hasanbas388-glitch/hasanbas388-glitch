@@ -19,12 +19,13 @@ Aspiring analyst, writer, and developer interested in:
 | MINDFULL | Coming-of-age fiction story blending quiet humor.
 | Healthcare_PivotChart | Built pivot chart and data visualizations to analyze healthcare trends, compare performance metrics, and organize large datasets.
 | S&P500 Trend |- Analyzed historical S&P 500 market trends using charts, statistical patterns, and data visualization techniques.
+| SQL WORKBENCH Medical Staff data analysis screenshot | Analysis on Healthcare staff from a madeup facility.
 
 - 🔭 I’m currently working on learning python and data analysis
 - 🌱 I’m currently learning how speak spanish and turkish
 -
 -
-## Projects
+## Veiw Projects
 [Healthcare_Data_PivotChart1.xlsx](https://github.com/user-attachments/files/28230106/Healthcare_Data_PivotChart1.xlsx)
 
 https://colab.research.google.com/drive/1caA3kOcgaOW2hvx5_DgpD_-hw771CDIk?usp=sharing
