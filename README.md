@@ -14,25 +14,25 @@ S&P 500 Market Trend & Volatility Study
 Analyzed historical S&P 500 data (1990–2025) using Python/Excel to identify long-term trends and volatility patterns.
 Key insights:
 
-Confirmed long-term upward market trend
-Detected high-volatility periods during economic downturns
-Observed cyclical behavior in market corrections
+-Confirmed long-term upward market trend
+-Detected high-volatility periods during economic downturns
+-Observed cyclical behavior in market corrections
 
 Basketball Performance Analytics Dashboard
 Analyzed basketball player/team statistics to identify performance trends and comparisons using data visualization techniques.
 Key insights:
 
-Compared player efficiency across seasons
-Identified performance consistency trends
-Visualized scoring and win patterns
+-Compared player efficiency across seasons
+-Identified performance consistency trends
+-Visualized scoring and win patterns
 
 Healthcare Workforce Efficiency Analysis (Pivot Tables & Excel)
 Built pivot tables and dashboards to analyze healthcare workforce data and operational trends.
 Key insights:
 
-Identified staffing distribution across departments
-Compared workload and efficiency metrics
-Summarized large datasets into actionable dashboards
+-Identified staffing distribution across departments
+-Compared workload and efficiency metrics
+-Summarized large datasets into actionable dashboards
 
 
 
