@@ -107,6 +107,7 @@ Turkish & Spanish language basics
 
 [S&P 500 Trend Analysis (1990-2025).xlsx](https://github.com/user-attachments/files/28230553/S.P.500.Trend.Analysis.1990-2025.xlsx)
 
+[digital_ad_campaign_performance_tracker.ipynb](https://github.com/user-attachments/files/28276699/digital_ad_campaign_performance_tracker.ipynb)
 
 
 - {
