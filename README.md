@@ -1,9 +1,7 @@
 ![Header](github-header.png)
-
 <img width="1500" height="500" alt="github-header png" src="https://github.com/user-attachments/assets/272ca46c-675a-402d-9896-60f82fa631e8" />
 
 
-**hasanbas388-glitch/hasanbas388-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 👤 About Me
 
